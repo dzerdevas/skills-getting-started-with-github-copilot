@@ -69,7 +69,7 @@ activities = {
         "max_participants": 14,
         "participants": ["james@mergington.edu", "abigail@mergington.edu"]
     },
-    "Science Club": {
+    "Science Club #2": {
         "description": "Conduct experiments and explore exciting scientific concepts",
         "schedule": "Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 18,
